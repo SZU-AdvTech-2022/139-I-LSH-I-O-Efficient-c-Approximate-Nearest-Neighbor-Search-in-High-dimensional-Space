@@ -1,0 +1,9 @@
+@inproceedings{REPO-140,
+    author = "Liu, Wanqi and Wang, Hanchen and Zhang, Ying and Wang, Wei and Qin, Lu",
+    booktitle = "2019 IEEE 35th International Conference on Data Engineering (ICDE)",
+    number = "",
+    pages = "1670-1673",
+    title = "{I-LSH: I/O Efficient c-Approximate Nearest Neighbor Search in High-dimensional Space}",
+    volume = "",
+    year = "2019"
+}
